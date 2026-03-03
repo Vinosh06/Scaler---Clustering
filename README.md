@@ -66,7 +66,7 @@ Data Dictionary:
   - Top 10 employees (earning more than most of the employees in the company) - Tier 1
     - Top 10 employees of data science in each company earning more than their peers - Class 1
     - Bottom 10 employees of data science in each company earning less than their peers - Class 3
-  - Bottom 10 employees (earning less than most of the employees in the company)- Tier 3
+  - Bottom 10 employees (earning less than most of the employees in the company) - Tier 3
   - Top 10 employees in each company - X department - having 5/6/7 years of experience earning more than their peers - Tier X
   - Top 10 companies (based on their CTC)
   - Top 2 positions in every company (based on their CTC)
